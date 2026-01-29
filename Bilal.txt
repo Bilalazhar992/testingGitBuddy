@@ -1,4 +1,8 @@
 uuhgiuhtui
 jrghiuhiughiuhu
+<<<<<<< HEAD
 
 hhfhfhfh
+=======
+kjfjhiutjtijhi
+>>>>>>> 2cf96789501314e345ee77506c098ebce3d85239
